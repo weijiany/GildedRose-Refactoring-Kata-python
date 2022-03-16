@@ -1,3 +1,4 @@
+from Item import Item
 from gilded_rose import *
 
 if __name__ == "__main__":
